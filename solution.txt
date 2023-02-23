@@ -1,0 +1,23 @@
+5
+enter the teams:
+IND
+PAK
+AUS
+ENG
+NZ
+[IND vs PAK, IND vs AUS, IND vs ENG, IND vs NZ, PAK vs AUS, PAK vs ENG, PAK vs NZ, AUS vs ENG, AUS vs NZ, ENG vs NZ]
+IND
+2
+2
+PAK
+2
+2
+AUS
+1
+3
+ENG
+3
+1
+NZ
+2
+2
